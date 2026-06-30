@@ -1,3 +1,3 @@
 # NYT Sudoku Solver
 
-Solves the NYT's hard sudoku puzzle
+I hate Sudoku, and I don't want to solve it. This is my solution to the NYT's hard sudoku puzzle
